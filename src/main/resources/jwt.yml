@@ -1,0 +1,4 @@
+## secret key must be stored in somewhere safe, so this is a temporary key for the local environment
+secret-key: asdkjkln123l13k413k41lkqdsnkalsfndfljdbsdasjdlknskeqkwnek223232323ljbmamsdsadasdaskjdkdjdbdjkfasjdbas8
+expiration-hours: 3
+issuer: seunghun
